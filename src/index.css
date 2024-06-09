@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .section {
+        @apply py-8 lg:py-20 lg:h-screen
+    }
+    .after-line {
+        @apply text-4xl font-semibold pb-3 after:absolute after:h-[5px] after:bottom-0 after:left-1/2 after:right-1/2 after:transform after:-translate-x-1/2  after:bg-primary 
+    }
+    .btn {
+        @apply rounded-md font-medium px-4 py-2 bg-primary text-white 
+    }
+}
+
