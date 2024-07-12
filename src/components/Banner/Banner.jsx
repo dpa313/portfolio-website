@@ -22,17 +22,17 @@ const Banner = () => {
           <div className="flex-1 font-light text-sm  lg:pr-20">
             <div className="text-center md:text-left md:pl-15 lg:pl-20 ">
               <h1 className="text-3xl  lg:text-[42px] text-primary  font-bold pb-2 leading-[50px] ">
-                Front-end Web Developer
+                Web Developer
               </h1>
-              <h3 className="text-2xl font-bold relative before:absolute before:w-32 before:-bottom-1 lg:before:w-14 before:h-[2px] lg:before:bottom-4 lg:before:-left-0 before:bg-primary lg:pl-16">
+              <h3 className="text-2xl text-[#eaf7fb]  font-bold relative before:absolute before:w-32 before:-bottom-1 lg:before:w-14 before:h-[2px] lg:before:bottom-4 lg:before:-left-0 before:bg-[#eaf7fb] lg:pl-16">
                 Apu Ahmed
               </h3>
-              <p className="lg:max-w-[350px] font-medium py-8 text-primary tracking-wide">
+              <p className="lg:max-w-[350px] font-medium py-8 text-[#eaf7fb] tracking-wide">
                 I'm a self-taught front-end developer from bangladesh.I'm very
                 passionate and dedicated to my work..
               </p>
               <div>
-                <button className="btn tranisition-all duration-500 hover:scale-105">
+                <button className="btn tranisition-all duration-500 ">
                   Contact me!
                 </button>
               </div>

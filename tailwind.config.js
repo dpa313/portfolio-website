@@ -15,13 +15,16 @@ export default {
       colors: {
         // primary: '#00F0A8'
         // primary: '#00BFFF',
-        primary: '#333333'
+        // primary: '#333333'
+        // primary: '#9FE2BF'
+        // primary: '#92e3a9'
+        primary: '#00ff99'
       }
     },
     backgroundImage: {
       banner: 'url("./src/assets/img/banner.jpg")',
       about: 'url("./src/assets/img/")',
-      // site: 'url("./src/assets/img/site.jpg")',
+      site: 'url("./src/assets/img/site.jpg")',
       'mygradient': 'linear-gradient(90deg,#b2fefa 52%, #92fe9d 81%)'
     }
   },
